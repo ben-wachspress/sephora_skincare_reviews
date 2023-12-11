@@ -1,6 +1,6 @@
 # Skincare Product Recommendation Analysis 
 
-This repo contains the Jupyter notebook `WHAT_DO_YOU_RECOMMEND__AN_ANALYSIS_OF_SKINCARE_PRODUCT_REVIEWS.ipynb` with the analysis underpinning the paper "What Do You Recommend? An Analysis of Skincare Product Reviews".
+This repo contains the Jupyter notebook `WHAT_DO_YOU_RECOMMEND__AN_ANALYSIS_OF_SKINCARE_PRODUCT_REVIEWS.ipynb` with the analysis underpinning the paper "What Do You Recommend? An Analysis of Skincare Product Reviews". This notebook explores how to use product reviews to predict user recommendations and ratings of products. 
 
 The notebook includes:
 - Imports for various libraries and packages that are required to run the notebook
