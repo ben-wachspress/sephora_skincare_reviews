@@ -11,7 +11,7 @@ The notebook includes:
 - Modeling with Logistic Regression, K-Nearest Neighbors, Elastic Net Regression, Random Forest, and Naive Bayes
 - Evaluation of model accuracy, precision and recall
 
-*Key finding*: TF-IDF text vectorization outperformed sentiment-based features for predicting recommendations. Logistic regression was the best
+**Key finding**: TF-IDF text vectorization outperformed sentiment-based features for predicting recommendations. Logistic regression was the best
 performing model with 0.80 precision, recall and accuracy.
 
 ## Running the Analysis
