@@ -19,5 +19,5 @@ performing model with 0.80 precision, recall and accuracy.
 To rerun the analysis:  
 1. Ensure libraries imported in the first notebook cell are installed 
 2. Download the Sephora product and reviews datasets from Kaggle (https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data)
-3. Confirm the data is in the same file path as the notebook and named with the smae labels as those used in the notebook
+3. Confirm the data is in the same file path as the notebook and that the file names match the labels in the notebook
 4. Run notebook cells end-to-end
